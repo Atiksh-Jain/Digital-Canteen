@@ -30,3 +30,8 @@ With a simple login using college ID, students can browse available food items, 
 * 🔔 Add SMS or push notifications  
 * 📊 Generate order analytics for canteen staff  
 ***
+## 📸 Screenshots 
+![1](https://github.com/user-attachments/assets/fe5422c3-3847-403b-b0cb-5453f285803b)
+![2](https://github.com/user-attachments/assets/d33a9dd9-caeb-4201-89d9-df2817cdeee9)
+![3](https://github.com/user-attachments/assets/25395832-939e-4d98-a926-3b8019b972d8)
+
